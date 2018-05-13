@@ -3,7 +3,7 @@ Bulls and Cows
 
 No Problems in there just sharing my job on that heavy part of C++. 
 
-Coming from PHP (assuming they are not doing the same things), C++ has a very more simple structure by me, 
+Coming from PHP (assuming they are not doing exactly the same things), C++ has a very more simple structure by me, 
 but it is much more difficult to implement. 
 It is a very precise language and I hope I will be able to be confident with it very soon :p. 
 
